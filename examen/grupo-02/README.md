@@ -18,65 +18,39 @@ nombre de sistema/instrumento construido por medio de módulos
 
 ## placas soldadas
 
-nombres de placas armadas
+Secuenciador 01 / Grupo 2: *Secuenciador 4040*
 
-principio de funcionamiento de cada una
+**Principio de funcionamiento:** Recibe pulsos de un reloj y va cambiando sus salidas una por una, siguiendo una secuencia. Esto permite controlar el orden en que se activan las notas o sonidos del sintetizador. 
 
-qué tipo de señal entrega a la salida, qué recibe
+Oscilador 01 / Grupo 03: *Comando estelar*
 
-lista de materiales con costos. Incluir tiempo de soldadura
+**Principio de funcionamiento:** Genera un sonido cuya frecuencia cambia según el voltaje que recibe. Esto permite modificar el tono del sintetizador de forma continua mediante potenciómetros o señales de control.
+ 
+Oscilador 02 / Grupo 03: *Resonancia*
 
-## carcasa
+**Principio de funcionamiento:** Genera un sonido cuya frecuencia puede variar y, al mismo tiempo, usa un secuenciador para activar diferentes pasos en orden. Así crea patrones y cambios de sonido de forma automática.
 
-decisiones materiales y formales de la carcasa
+Oscilador 01 / Grupo 04: *Chirigüe mecanizado*
 
-inspiración y referentes (con cita)
+**Principio de funcionamiento:** Genera sonidos con un oscilador y modifica su tono mediante el circuito, permitiendo obtener diferentes efectos sonoros. 
 
-## Proceso
+Oscilador 02 / Grupo 04: *Comunicaciones espaciales*
 
-| Proceso 1 | Proceso 2 | Proceso 3 | Proceso 4 |
-|---------|---------|---------|---------|
-|  ![Proceso01](./imagenes/pr-01.jpeg) | ![Proceso02](./imagenes/pr-02.jpeg) |  ![Proceso03](./imagenes/pr-03.jpeg) | ![Proceso04](./imagenes/pr-04.jpeg) |
+**Principio de funcionamiento:** Genera una señal de sonido de forma continua y permite cambiar su tono mediante los potenciómetros, creando diferentes efectos y variaciones sonoras. 
 
-| Proceso 5 | Proceso 6 | Proceso 7 | Proceso 8 |
-|---------|---------|---------|---------|
-| ![Proceso05](./imagenes/pr-05.jpeg) | ![Proceso06](./imagenes/pr-06.jpeg) | ![Proceso07](./imagenes/pr-07.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+Percusión 01 / Grupo 06: *Lub-dub*
 
-| Proceso 9 | Proceso 10 | Proceso 11 | Proceso 12 |
-|---------|---------|---------|---------|
-| ![Proceso09](./imagenes/pr-09.jpeg) | ![Proceso10](./imagenes/pr-10.jpeg) | ![Proceso11](./imagenes/pr-11.jpeg) |  ![Proceso12](./imagenes/pr-12.jpeg) |
+ **Principio de funcionamiento:** Genera un golpe de sonido corto cada vez que recibe una señal de activación. Sus controles permiten cambiar el tono y la duración del golpe para crear distintos sonidos de percusión. 
 
-| Proceso 13 | Proceso 14 | Proceso 15 | Proceso 16 |
-|---------|---------|---------|---------|
-| ![Proceso13](./imagenes/pr-13.jpeg) | ![Proceso16](./imagenes/pr-16.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+Percusión 02 / Grupo 06: *Barry Benson*
 
-| Proceso 17 | Proceso 18 | Proceso 19 | Proceso 20 |
-|---------|---------|---------|---------|
-| ![Proceso21](./imagenes/pr-21.jpeg) | ![Proceso22](./imagenes/pr-22.jpeg) | ![Proceso23](./imagenes/pr-23.jpeg) |  ![Proceso24](./imagenes/pr-24.jpeg) |
+**Principio de funcionamiento:** Genera sonidos de percusión al recibir una señal de activación. Sus controles permiten modificar el tono y el carácter del sonido para obtener diferentes tipos de golpes. 
 
-| Proceso 21 | Proceso 22 | Proceso 23 | Proceso 24 |
-|---------|---------|---------|---------|
-| ![Proceso21](./imagenes/placas-soldadas.jpeg) | ![Proceso22](./imagenes/parlante.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+## Tiempo de soldadura
 
-| Proceso 25 | Proceso 26 | Proceso 27 | Proceso 28 |
-|---------|---------|---------|---------|
-| ![Proceso21](./imagenes/placas-soldadas.jpeg) | ![Proceso22](./imagenes/parlante.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
-
-
---------------------------
-
-
-| Video 1 | Video 2 | Video 3 |
-|:-------:|:-------:|:-------:|
-| [![Video 1](https://img.youtube.com/vi/JmE9NbwjoMs/hqdefault.jpg)](https://youtube.com/shorts/JmE9NbwjoMs) | [![Video 2](https://img.youtube.com/vi/Sk7TLUBUIL0/hqdefault.jpg)](https://youtube.com/shorts/Sk7TLUBUIL0) | [![Video 3](https://img.youtube.com/vi/-w2bnB7ahFI/hqdefault.jpg)](https://youtube.com/shorts/-w2bnB7ahFI) |
-| **Video 4** | **Video 5** | **Video 6** |
-| [![Video 4](https://img.youtube.com/vi/Z8LjF2_bu-w/hqdefault.jpg)](https://youtube.com/shorts/Z8LjF2_bu-w) | [![Video 5](https://img.youtube.com/vi/l9U1S9-KGVk/hqdefault.jpg)](https://youtube.com/shorts/l9U1S9-KGVk) | [![Video 6](https://img.youtube.com/vi/rXEYtkrxyr4/hqdefault.jpg)](https://youtube.com/shorts/rXEYtkrxyr4) |
-| **Video 7** | **Video 8** | **Video 9** |
-| [![Video 7](https://img.youtube.com/vi/mTNN9lAFyIs/hqdefault.jpg)](https://youtube.com/shorts/mTNN9lAFyIs) | [![Video 8](https://img.youtube.com/vi/chz79BSDsxw/hqdefault.jpg)](https://youtube.com/shorts/chz79BSDsxw) | [![Video 9](https://img.youtube.com/vi/vpFVOLXRS30/hqdefault.jpg)](https://youtube.com/shorts/vpFVOLXRS30) |
-| **Video 10** | **Video 11** | **Video 12** |
-| [![Video 10](https://img.youtube.com/vi/bo8u3_Ju_fE/hqdefault.jpg)](https://youtube.com/shorts/bo8u3_Ju_fE) | [![Video 11](https://img.youtube.com/vi/CvPNiDL23gA/hqdefault.jpg)](https://youtube.com/shorts/CvPNiDL23gA) | [![Video 12](https://img.youtube.com/vi/T8TXoX9cu-E/hqdefault.jpg)](https://youtube.com/shorts/T8TXoX9cu-E) |
-
--------------------------------
+| Proceso | Integrantes | Duración | Horas por integrante | Total equipo |
+|----------|:-----------:|:--------:|----------------------:|-------------:|
+| Soldadura, corrección de errores y soluciones de todas las PCB | 5 | 3 semanas | 120 hrs | 120 hrs × 5 = 600 h |
 
 ## BOM (Bill of materiales)
 
@@ -272,6 +246,57 @@ inspiración y referentes (con cita)
 
 ## BOM General
 
+## carcasa
+
+decisiones materiales y formales de la carcasa
+
+inspiración y referentes (con cita)
+
+## Proceso
+
+| Proceso 1 | Proceso 2 | Proceso 3 | Proceso 4 |
+|---------|---------|---------|---------|
+|  ![Proceso01](./imagenes/pr-01.jpeg) | ![Proceso02](./imagenes/pr-02.jpeg) |  ![Proceso03](./imagenes/pr-03.jpeg) | ![Proceso04](./imagenes/pr-04.jpeg) |
+
+| Proceso 5 | Proceso 6 | Proceso 7 | Proceso 8 |
+|---------|---------|---------|---------|
+| ![Proceso05](./imagenes/pr-05.jpeg) | ![Proceso06](./imagenes/pr-06.jpeg) | ![Proceso07](./imagenes/pr-07.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
+| Proceso 9 | Proceso 10 | Proceso 11 | Proceso 12 |
+|---------|---------|---------|---------|
+| ![Proceso09](./imagenes/pr-09.jpeg) | ![Proceso10](./imagenes/pr-10.jpeg) | ![Proceso11](./imagenes/pr-11.jpeg) |  ![Proceso12](./imagenes/pr-12.jpeg) |
+
+| Proceso 13 | Proceso 14 | Proceso 15 | Proceso 16 |
+|---------|---------|---------|---------|
+| ![Proceso13](./imagenes/pr-13.jpeg) | ![Proceso16](./imagenes/pr-16.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
+| Proceso 17 | Proceso 18 | Proceso 19 | Proceso 20 |
+|---------|---------|---------|---------|
+| ![Proceso21](./imagenes/pr-21.jpeg) | ![Proceso22](./imagenes/pr-22.jpeg) | ![Proceso23](./imagenes/pr-23.jpeg) |  ![Proceso24](./imagenes/pr-24.jpeg) |
+
+| Proceso 21 | Proceso 22 | Proceso 23 | Proceso 24 |
+|---------|---------|---------|---------|
+| ![Proceso21](./imagenes/placas-soldadas.jpeg) | ![Proceso22](./imagenes/parlante.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
+| Proceso 25 | Proceso 26 | Proceso 27 | Proceso 28 |
+|---------|---------|---------|---------|
+| ![Proceso21](./imagenes/placas-soldadas.jpeg) | ![Proceso22](./imagenes/parlante.jpeg) | ![Proceso17](./imagenes/pr-17.jpeg) | ![Proceso08](./imagenes/pr-08.jpeg) |
+
+
+--------------------------
+
+
+| Video 1 | Video 2 | Video 3 |
+|:-------:|:-------:|:-------:|
+| [![Video 1](https://img.youtube.com/vi/JmE9NbwjoMs/hqdefault.jpg)](https://youtube.com/shorts/JmE9NbwjoMs) | [![Video 2](https://img.youtube.com/vi/Sk7TLUBUIL0/hqdefault.jpg)](https://youtube.com/shorts/Sk7TLUBUIL0) | [![Video 3](https://img.youtube.com/vi/-w2bnB7ahFI/hqdefault.jpg)](https://youtube.com/shorts/-w2bnB7ahFI) |
+| **Video 4** | **Video 5** | **Video 6** |
+| [![Video 4](https://img.youtube.com/vi/Z8LjF2_bu-w/hqdefault.jpg)](https://youtube.com/shorts/Z8LjF2_bu-w) | [![Video 5](https://img.youtube.com/vi/l9U1S9-KGVk/hqdefault.jpg)](https://youtube.com/shorts/l9U1S9-KGVk) | [![Video 6](https://img.youtube.com/vi/rXEYtkrxyr4/hqdefault.jpg)](https://youtube.com/shorts/rXEYtkrxyr4) |
+| **Video 7** | **Video 8** | **Video 9** |
+| [![Video 7](https://img.youtube.com/vi/mTNN9lAFyIs/hqdefault.jpg)](https://youtube.com/shorts/mTNN9lAFyIs) | [![Video 8](https://img.youtube.com/vi/chz79BSDsxw/hqdefault.jpg)](https://youtube.com/shorts/chz79BSDsxw) | [![Video 9](https://img.youtube.com/vi/vpFVOLXRS30/hqdefault.jpg)](https://youtube.com/shorts/vpFVOLXRS30) |
+| **Video 10** | **Video 11** | **Video 12** |
+| [![Video 10](https://img.youtube.com/vi/bo8u3_Ju_fE/hqdefault.jpg)](https://youtube.com/shorts/bo8u3_Ju_fE) | [![Video 11](https://img.youtube.com/vi/CvPNiDL23gA/hqdefault.jpg)](https://youtube.com/shorts/CvPNiDL23gA) | [![Video 12](https://img.youtube.com/vi/T8TXoX9cu-E/hqdefault.jpg)](https://youtube.com/shorts/T8TXoX9cu-E) |
+
+------------------------------
 
 ## composición
 
