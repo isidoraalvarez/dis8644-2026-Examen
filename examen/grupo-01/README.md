@@ -56,7 +56,7 @@ Victronics es una tienda online, por eso pueden ofrecer precios más bajos, adem
 
 ### BOM PCB MAINCRA
 
-Este módulo te permite interactuar con el sintetizador mediante vibraciones en el piezo, mediante golpes en el mismo. Estas vibraciones serás captadas por el piezo, lo cual lo tomará como señal para avanzar en el secuenciador. 
+Este módulo te permite interactuar con el sintetizador mediante vibraciones en el piezo, mediante golpes en el mismo. Estas vibraciones serán captadas por el piezo, lo cual lo tomará como señal para avanzar en el secuenciador. 
 
 La idea detrás de esta propuesta nace de la posibilidad de sentir y ver las vibraciones. Aquello que parece caótico o insignificante puede contener señales que, al prestar suficiente atención, adquieren un significado propio. Siguiendo esa lógica, el piezo actúa como un medio para captar esas vibraciones y convertirlas en acciones dentro del sintetizador, permitiendo que elementos normalmente invisibles se vuelvan parte de la interacción. 
 
@@ -229,7 +229,7 @@ Nuestro sintetizador está formado de 4 módulos:
 
 ## Carcasa 
 
-> Escogimos trabajar con acrílico ya que éramos familiares con el material. es fácil de trabajar por su compatibilidad con el corte laser que nos permitía cortar varias carcasas, grabar y lograr un buen oficio. el material es firme, perfecto para lo que teníamos en mente, además es económico.
+> Escogimos trabajar con acrílico ya que éramos familiares con el material. es fácil de trabajar por su compatibilidad con el corte láser que nos permitía cortar varias carcasas, grabar y lograr un buen oficio. El material es firme, perfecto para lo que teníamos en mente, además es económico.
 >
 > Una cualidad del acrílico que utilizamos es la transparencia. Buscamos celebrar el diseño de las PCB a través de la transparencia de este, rompiendo la caja negra e invitando a la apreciación integral de cada placa y sus distintos componentes.
 
@@ -271,7 +271,7 @@ Para la carcasa usamos estos 3 ejemplos:
 
 #### Integración a la vida diaria
 
-Al hacer brainstorming de que podríamos hacer como partitura nos dimos cuenta de que nuestras ideas eran actividades que independientes de nuestra partitura se llevan a cabo. Nosotros nos introducimos a está creando una composición nueva cada vez que se toca. 
+Al hacer brainstorming de que podríamos hacer como partitura nos dimos cuenta de que nuestras ideas eran actividades que independientes de nuestra partitura se llevan a cabo. Nosotros nos introducimos a esta creando una composición nueva cada vez que se toca. 
 
 Descubrimos que nuestra partitura calzaba con el principio del Sitio especifico, un tipo de obra especifica planeada para un lugar concreto. En nuestro caso siendo la mesa de Ping Pong en la FAAD. (Kolodynski, n.d.) 
 
@@ -284,9 +284,9 @@ Descubrimos que nuestra partitura calzaba con el principio del Sitio especifico,
 *(ver. poética)*
 
 >**Ve a República 180 y ubica el piezo en la mesa de ping pong**
-
+>
 >**Invita a alguien a jugar**
-
+>
 >**Jueguen durante 5 minutos o hasta que se aburran**
 
 ------------------
@@ -326,7 +326,7 @@ explicación de flujo de señal de audio:
 ordenado a grandes rasgos gesto humano a fuentes de tiempo, a secuenciador, a osciladores, a filtros, a mezcladores, a parlante
 
 - la placa 01 es el piezo, tiene como entrada un golpecito en el piezo, y la salida es un pequeño voltaje que va conectado a la placa 02 secuenciador.
-- la placa 02 tiene como entrada la señal de control del piezo, estamos viendo como arreglaralo ya que la primera vez no funcionó. estamos soldando uno nuevo para ver si fue un error de soldadura con nuevos componentes. de las 8 entradas usamos 4, jel 4to siendo reset para comenzar el ciclo de nuevo. (soldamos el pin 2 y 14 como una forma de hechizo)
+- la placa 02 tiene como entrada la señal de control del piezo, estamos viendo como arreglaralo ya que la primera vez no funcionó. estamos soldando uno nuevo para ver si fue un error de soldadura con nuevos componentes. de las 8 entradas usamos 4, el 4to siendo reset para comenzar el ciclo de nuevo. (soldamos el pin 2 y 14 como una forma de hechizo)
 - cada placa 03 de osciladores es una fuente sonora, tenemos 3 montados juntos en una carcasa. tuvimos un problema con la placa del medio, nunca sonaba correctamente. soldamos uno ultimo y nos dimos cuenta que usamos un chip erroneo y una cama estaba mal puesta.
 
 estado de construcción:
