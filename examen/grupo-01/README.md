@@ -314,7 +314,6 @@ WhiteSample, & Cargo Collective. (2012, 01 04). Live at Mutek_CL. <https://vimeo
 
 ## preguntas domingo
 
-```
 placas usadas:
 
 - placa 01: piezo, diseñada por grupo 01
