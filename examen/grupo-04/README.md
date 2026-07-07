@@ -9,7 +9,7 @@
 - Catalina Antonia Oyanedel Sánchez / [@catalinaoyanedel-01](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/22-catalinaoyanedel-01)
 - Yaira Alexandra Ruiz Ossandón / [@yairaruiz](https://github.com/disenoUDP/dis8644-2026-1-procesos-2/tree/main/28-yairaruiz)
 
-## Criterios de diseño del sistema
+## Criterios de diseño del sistema 
 
 La inspiración para nuestro proyecto comienza desde el sonido que se produce a partir de uno de nuestros osciladores, el cual era parecido al del chirihue, ave nativa chilena. Además, como antecedente, integrantes de nuestro equipo en la entrega del primer proyecto realizaron un sintetizador que lleva como título “Naturalezas Interconectadas”, proponiendo que distintos tipos de naturalezas interactúan las unas con las otras, teniendo así un comienzo para nuestra investigación.
 
