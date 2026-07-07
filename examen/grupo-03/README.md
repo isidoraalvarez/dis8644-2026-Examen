@@ -64,6 +64,30 @@ Esta señal constituye la fuente sonora principal del sintetizador.
 
 Dentro de Vitrina Sónica, Comando Estelar actúa como uno de los módulos encargados de producir el material sonoro base. Gracias a su capacidad de modificar la frecuencia mediante controles físicos, permite obtener diferentes alturas y texturas que posteriormente pueden combinarse con otros módulos del sistema.
 
+## BOM Comando Estelar
+
+| Componente     | Valor  | Cant | PCB         |
+| -------------- | ------ | ---- | ----------- |
+| Capacitor      | 10nF   | 1    | C1          |
+| Capacitor      | 100nF  | 1    | C5          |
+| C. polarizado  | 100µF  | 3    | C2 C6 C7    |
+| C. polarizado  | 10µF   | 2    | C3 C4       |
+| Diodo          | 1N4007 | 1    | D1          |
+| LED            | ------ | 1    | D2          |
+| Resistencia    | 100KΩ  | 1    | R1          |
+| Resistencia    | 1KΩ    | 1    | R2          |
+| LDR            | ------ | 2    | RV1 RV2     |
+| Switch         | SPDT   | 1    | SW1         |
+| Chip           | 4046   | 1    | U1          |
+| Chip           | L7805  | 1    | U2          |
+| Chip           | 40106  | 1    | U3          |
+| Base Dip       | 16 pin | 1    | U1          |
+| Base Dip       | 14 pin | 1    | U3          |
+| Perno M3       |        | 4    | H1 H2 H3 H4 |
+| Conector       | Barrel | 2    | J2 J3       |
+| Conector       | Jack   | 1    | J1          |
+
+
 ## Resonancia 
 
 Resonancia corresponde al segundo módulo generador del sintetizador. Aunque comparte la misma arquitectura base del primer oscilador, incorpora un CD4017, contador decimal que introduce un comportamiento secuencial dentro del circuito.
@@ -98,6 +122,33 @@ Entrega:
 **Rol dentro del sistema:**
 
 Resonancia complementa el funcionamiento de Comando Estelar incorporando una lógica de secuenciación. En lugar de producir únicamente un tono continuo, añade cambios temporales que enriquecen el comportamiento del sintetizador y permiten obtener una mayor diversidad de sonidos al combinar ambos módulos dentro del mixer.
+
+## BOM Resonancia 
+
+| Componente     | Valor  | Cant | PCB         |
+| -------------- | ------ | ---- | ----------- |
+| Capacitor      | 1µF    | 2    | C2 C7       |
+| C. polarizado  | 4µF    | 1    | C3          |
+| C. polarizado  | 100µF  | 1    | C4          |
+| C. polarizado  | 10µF   | 2    | C5 C8       |
+| Capacitor      | 100nF  | 1    | C6          |
+| Led            | -----  | 2    | D1 D3       |
+| Diodo          | 1N4007 | 1    | D2          |
+| Resistencia    | 470KΩ  | 2    | R1 R2       |
+| Resistencia    | 330KΩ  | 1    | R3          |
+| Resistencia    | 1KΩ    | 1    | R4          |
+| LDR            | ------ | 2    | RV1 RV2     |
+| Switch         | SPDT   | 1    | SW1         |
+| Chip           | 4017   | 1    | U1          |
+| Chip           | 4046   | 1    | U2          |
+| Chip           | 40106  | 1    | U3          |
+| Chip           | L7805  | 1    | U4          |
+| Base Dip       | 16 pin | 2    | U1 U2       |
+| Base Dip       | 14 pin | 1    | U3          |
+| Perno M3       |        | 4    | H1 H2 H3 H4 |
+| Conector       | Barrel | 2    | J1 J3       |
+| Conector       | Jack   | 1    | J4          |
+
 
 
 ## carcasa
