@@ -141,8 +141,9 @@ Este proceso de soldadura, lo comenzamos el 16 de Junio del 2026, a las 9:00 am 
 - Jueves 02 de julio: 11:00 - 18:00. **7 horas.**
 - Viernes 03 de julio: 11:00 - 21:00. **10 horas**
 - Domingo 05 de julio: 11:00 - 5:40.  **5 horas 40 min.**
+- Lunes 06 de julio: 12:00 - 21:50
 
-El tiempo de trabajo y soldadura fue de aproximadamente de **42 horas y media.** _(hasta el momento)_
+El tiempo de trabajo y soldadura fue de aproximadamente de **58 horas.** 
 
 ## Carcasa
 
